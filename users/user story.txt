@@ -1,0 +1,21 @@
+1. Advertiser
+   As an advertiser, I want to be able to view reviews about the advertising agency to assess the agency's performance.
+   As an advertiser, I want to have contact via phone or email with the manager associated with my request to know the progress of the request.
+   As an advertiser, I want to have access to the remaining budget of the request to understand the effectiveness of fund utilization.
+   As an advertiser, I want access to payment receipts to advertising platforms to know how much budget is allocated to specific advertising platforms.
+   As an advertiser, I want the ability to add budget to an existing request (project) so that work can continue if necessary.
+
+2. Administrator
+   As an administrator, I want to be able to find an employee's team by the employee's name and/or surname to quickly locate the required employees.
+   As an administrator, I want to be able to filter requests from advertisers by the advertiser's name or the creation date of the request to quickly find relevant requests based on criteria.
+   As an administrator, I want access to the archive of requests to analyze past requests.
+   As an administrator, I want access to records of the head of each team to have quick access to the leadership of the required team.
+   As an administrator, I want access to records of managers and the number of projects each manager has to analyze the workload distribution among managers.
+
+3. Employee
+   As an employee, I want to be able to receive technical tasks from the team leader to know what work I need to complete.
+   As an employee, I want access to information about the members of my team to facilitate communication within the team.
+   As an employee, I want access to information about the leader of my team so that I can determine the hierarchy.
+   As an employee, I want to have access to information about advertising platforms (newspapers, TV advertisements, announcements, etc.) to analyze advertising platforms.
+   As an employee, I want to have contact via phone or email with the manager assigned to the team's request to provide feedback to the manager if necessary.
+   As an employee, I want clear boundaries for my area of responsibility to focus my attention on a specific task.
